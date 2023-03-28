@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+  
+.connected {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+   
+#disconnect-wallet {
+    display: none;
+}
+  
